@@ -33,14 +33,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
 ![Xilinx](https://img.shields.io/badge/Xilinx-EE1F26?style=for-the-badge&logo=xilinx&logoColor=white)  
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vitiantanmay&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitiantanmay&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
