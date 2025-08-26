@@ -41,9 +41,8 @@ graph TD;
 
 ### ⚙️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,react,nodejs,express,mongodb,arduino,raspberrypi,git,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,c,cpp,python,verilog,react,nodejs,express,mongodb,arduino,raspberrypi,git,vscode,linux&theme=dark" />
 </p>
-
 ---
 
 ## 📂 Featured Projects  
