@@ -67,7 +67,3 @@ graph TD;
 
 ✨ *“The boundary between hardware and software is just imagination.”* ✨  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vitiantanmay&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vitiantanmay&show_icons=true&theme=radical&hide_border=true)  
-
-</div>
