@@ -67,3 +67,4 @@ graph TD;
 
 ✨ *“The boundary between hardware and software is just imagination.”* ✨  
 
+![tanmaygalav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanmaygalav&theme=vue-dark&hide_border=true)
